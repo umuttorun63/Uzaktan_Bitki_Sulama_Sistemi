@@ -49,32 +49,32 @@ Projenin geliştirilmesinde aşağıdaki yazılım ve kütüphaneler kullanılm�
 ## 🔌 Devre Bağlantı Şeması
 Projenin elektronik bağlantıları aşağıdaki şemaya sadık kalınarak yapılmıştır.
 
-![Devre Şeması](docs/devre_semasi.png)
+![Devre Şeması](images/devre_semasi.png)
 
 ---
 
 ## 🏗️ Projenin Donanım Kurulumu
 Aşağıda sistemin fiziksel olarak kurulmuş ve çalışmaya hazır hali görülmektedir:
 
-![Donanım Kurulumu](img/proje_kurulum.jpg)
+![Donanım Kurulumu](images/proje_kurulum.jpg)
 
 ---
 
 ## 🧠 Algoritma Akış Diyagramı
 Yazılımın karar verme mekanizması aşağıdaki akış diyagramında detaylandırılmıştır.
 
-![Akış Diyagramı](docs/akis_diyagrami.png)
+![Akış Diyagramı](images/akis_diyagrami.png)
 
 ---
 
 ## 📊 Blynk Anlık Nem Takibi
 Sistem, ölçülen analog nem verilerini işleyerek anlık olarak Blynk sunucularına iletir. Kullanıcı, mobil uygulama üzerinden bitkinin durumunu canlı olarak izleyebilir.
 
-![Blynk Ekran Görüntüsü](img/blynk_screenshot.jpg)
+![Blynk Ekran Görüntüsü](images/blynk_screenshot.jpg)
 
 ---
 
 ## 🧑‍💻 Arduino IDE Üzerinden Nem Takibi
 Sistemin kararlılığı ve sensör hassasiyeti, geliştirme aşamasında Seri Port Ekranı (Serial Monitor) üzerinden test edilmiştir. Aşağıdaki çıktılar, sistemin nem değişimlerine anlık tepki verdiğini göstermektedir.
 
-![Serial Monitor](img/serial_monitor.png)
+![Serial Monitor](images/serial_monitor.png)
