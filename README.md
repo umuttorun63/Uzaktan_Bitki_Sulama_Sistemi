@@ -77,4 +77,4 @@ Sistem, ölçülen analog nem verilerini işleyerek anlık olarak Blynk sunucula
 ## 🧑‍💻 Arduino IDE Üzerinden Nem Takibi
 Sistemin kararlılığı ve sensör hassasiyeti, geliştirme aşamasında Seri Port Ekranı (Serial Monitor) üzerinden test edilmiştir. Aşağıdaki çıktılar, sistemin nem değişimlerine anlık tepki verdiğini göstermektedir.
 
-![Serial Monitor](images/serial_monitor.png)
+![Serial Monitor](images/serial_monitor.jpg)
